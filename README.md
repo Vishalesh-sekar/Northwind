@@ -5,13 +5,6 @@ Database Analysis &amp; SQL Exploration using MS SQL
 > 
 > 📌 **My task in this case study is to perform an analysis of the performance of this company using SQL.**
 
-<!-- omit in toc -->
-## 📈  Table Of Contents
-* [📂 Dataset](#-dataset)
-* [📒 Data Dictionary](#-data-dictionary)
-* [📊 Business Question](#️-business-question)
-
-
 ## 📂 Dataset
 
 The Northwind dataset is composed of 13 tables:
